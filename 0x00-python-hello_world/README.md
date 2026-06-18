@@ -16,4 +16,6 @@ This directory contains introductory exercises and scripts for learning Python f
 | `7-edges.py` | Demonstrates string slicing by extracting specific parts of a string. |
 | `8-concat_edges.py` | Slices a complex string to extract and print a specific phrase. |
 | `9-easter_egg.py` | Prints "The Zen of Python", by Tim Peters. |
+| `10-check_cycle.c` | Algorithm to check if a linked-list is a cycle |
+| `lists.h` | Header file for utility functions for check_cycle function |
 | `execute.sh`, `gitpush.sh` | Bash scripts for making files executable and pushing to Git. |
